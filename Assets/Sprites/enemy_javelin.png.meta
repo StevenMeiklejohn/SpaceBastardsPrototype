@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 9792c73ef8dde4c2cb949fddddda402b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_javelin 0
+    21300002: enemy_javelin 1
+    21300004: enemy_javelin 2
+    21300006: enemy_javelin 3
+    21300008: enemy_javelin 4
+    21300010: enemy_javelin 5
+    21300012: enemy_javelin 6
+    21300014: enemy_javelin 7
+    21300016: enemy_javelin 8
+    21300018: enemy_javelin 9
+    21300020: enemy_javelin 10
+    21300022: enemy_javelin 11
+    21300024: enemy_javelin 12
+    21300026: enemy_javelin 13
+    21300028: enemy_javelin 14
+    21300030: enemy_javelin 15
+    21300032: enemy_javelin 16
+    21300034: enemy_javelin 17
+    21300036: enemy_javelin 18
+    21300038: enemy_javelin 19
+    21300040: enemy_javelin 20
+    21300042: enemy_javelin 21
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_javelin 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1543852e6c44a829f1bdea50e2a377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc887a3e42a2940968b41aa301f0a189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 422
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030ed8dbef8449129bc81902d9162ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 422
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff42e5475da44063adf42f4682cd48e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 422
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc422cbe4bc9459d899d98500264f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1651c4357dd447d93aec1c738d8574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 332
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143fc5190e25a492c9693ae7fda0e1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0a6c49a110947aa8157f6a419a52c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b723233f9d59c48628171897c68f5829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d47dad9f71b84b28b9fb3dff58299e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9109273eff9c240169ff503aae8eeae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 242
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27543f60773d4904bd73c59db7ed741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9427a61cd7ab14c05988aedec9c22062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 242
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33ff08eb13343019e9005e00c0607d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42e42c0e040432aadbcda0b71233ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de0ec8e2f9ab4e57aa9fa306e76d433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d7db2ca2f2407f9d3f74da5b9fa87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8bcd4653a7a489ab66415bdcc9314c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 152
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7b2eb154f64388a841fb1efaedee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a727b09295449e69786f1b16b2e5b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c897b843f4345b3a860ed3bc87055c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_javelin 21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 62
+        width: 90
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acdb24dda64c4f6abc196ac50f14b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3326d4dfe9be14de0bb69eb1f2f11886
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

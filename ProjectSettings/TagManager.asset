@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShipTag
+  - EnemyJavelinTag
+  - EnemySleekTag
+  - EnemySmallTag
+  - EnemyCircleTag
+  - EnemyBulletTag
+  - PlayerBulletTag
+  - EnemyTriangleTag
+  - EnemyBossTag
+  - ScoreTextTag
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundImage
+    uniqueID: 1837118641
+    locked: 0
+  - name: Background
+    uniqueID: 790822655
+    locked: 0
+  - name: GamePlay
+    uniqueID: 2738438243
+    locked: 0
+  - name: Effects
+    uniqueID: 3785911621
+    locked: 0

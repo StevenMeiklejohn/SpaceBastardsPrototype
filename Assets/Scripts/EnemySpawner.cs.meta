@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 97154757d913c4031a9f770dfbaa97d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EnemySleekGo: {fileID: 1732659174948050, guid: 8e8b94175abcf47d6b4eec3a08d0c1c2,
+      type: 2}
+  - EnemyCircleGo: {fileID: 1882345748977292, guid: 73236bcd23c674a7d8757353fd83c211,
+      type: 2}
+  - EnemyJavelinGo: {instanceID: 0}
+  - EnemyXWingGo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
